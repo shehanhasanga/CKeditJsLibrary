@@ -1,0 +1,19 @@
+{
+  "name": "ckeditjslibrary",
+  "version": "1.0.6",
+  "description": "\"# CKeditJsLibrary\" \r \"# CKeditJsLibrary\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shehanhasanga/CKeditJsLibrary.git"
+  },
+  "bugs": {
+    "url": "https://github.com/shehanhasanga/CKeditJsLibrary/issues"
+  },
+  "homepage": "https://github.com/shehanhasanga/CKeditJsLibrary#readme"
+}
